@@ -1,0 +1,6 @@
+baseURL = "https://winglin.tk/"
+languageCode = "en-us"
+title = "Wing Lin"
+theme = "themechange"
+publishDir = "docs"
+
